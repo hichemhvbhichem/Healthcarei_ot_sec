@@ -1,1 +1,3 @@
 # Healthcare_IoT_security
+
+The importance of IoT devices and data can be dangerous, so implementation of security is very important to save the patient's lives and data. The IoTs are small computers any Electronic attack can lead to compromise them. What if these hacked devices can kill someone, it is critical and a real scenario can happen at any time. Most Healthcare providers are medical device makers, which may not be familiar with security and attacks. They might be using unpatched systems or unsecured radiofrequency. This paper review pacemaker device vulnerabilities, attacks, and security issues and solutions.

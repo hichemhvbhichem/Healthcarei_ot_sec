@@ -1,1 +1,1 @@
-# Healthcarei_ot_sec
+# Healthcare_IoT_security
